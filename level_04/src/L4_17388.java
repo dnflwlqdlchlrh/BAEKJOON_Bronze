@@ -27,6 +27,7 @@ public class L4_17388 {
 //			System.out.println("Hanyang");
 //		}
 		
+		
 		if (S + K + H >= 100) {
 			System.out.println("OK");
 		} else {
